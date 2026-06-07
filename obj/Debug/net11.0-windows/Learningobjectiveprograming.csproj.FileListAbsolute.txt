@@ -1,0 +1,15 @@
+e:\Dev\Learningobjectiveprograming\bin\Debug\net11.0-windows\Learningobjectiveprograming.exe
+e:\Dev\Learningobjectiveprograming\bin\Debug\net11.0-windows\Learningobjectiveprograming.deps.json
+e:\Dev\Learningobjectiveprograming\bin\Debug\net11.0-windows\Learningobjectiveprograming.runtimeconfig.json
+e:\Dev\Learningobjectiveprograming\bin\Debug\net11.0-windows\Learningobjectiveprograming.dll
+e:\Dev\Learningobjectiveprograming\bin\Debug\net11.0-windows\Learningobjectiveprograming.pdb
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.GeneratedMSBuildEditorConfig.editorconfig
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.AssemblyInfoInputs.cache
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.AssemblyInfo.cs
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.csproj.CoreCompileInputs.cache
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.sourcelink.json
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.dll
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\refint\Learningobjectiveprograming.dll
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.pdb
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\Learningobjectiveprograming.genruntimeconfig.cache
+e:\Dev\Learningobjectiveprograming\obj\Debug\net11.0-windows\ref\Learningobjectiveprograming.dll
